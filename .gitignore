@@ -2,6 +2,7 @@
 **/data
 **/test
 **/train
+**/base_autoencoders
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
