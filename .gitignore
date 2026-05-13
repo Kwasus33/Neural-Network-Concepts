@@ -5,6 +5,7 @@
 **/base_autoencoders
 **/*.pth
 **/*.pt
+**/*imgs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
